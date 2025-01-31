@@ -1,0 +1,6 @@
+@Cloud2025_arb.krav_HostAddress = http://localhost:5210
+
+GET {{Cloud2025_arb.krav_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
